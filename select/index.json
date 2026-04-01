@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "winner",
+  "base_artist": "COPES",
+  "createdAt": "2026-04-01T10:47:52.204928Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Winner",
+      "artist": "Bobby Bare",
+      "has_synced": true,
+      "path": "select/01_The_Winner_Bobby_Bare.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Walking Away A Winner",
+      "artist": "Kathy Mattea",
+      "has_synced": true,
+      "path": "select/02_Walking_Away_A_Winner_Kathy_Mattea.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Walking Away A Winner (Album Version)",
+      "artist": "Kathy Mattea",
+      "has_synced": true,
+      "path": "select/03_Walking_Away_A_Winner_(Album_Version)_Kathy_Mattea.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Here Comes the Winner",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/04_Here_Comes_the_Winner_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Winner of the Game",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/05_Winner_of_the_Game_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "There's A Winner In You",
+      "artist": "Patti LaBelle",
+      "has_synced": false,
+      "path": "select/06_There's_A_Winner_In_You_Patti_LaBelle.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/07_The_Winner_Takes_It_All_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/08_The_Winner_Takes_It_All_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/09_The_Winner_Takes_It_All_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "$100 (Worst Remix Contest Winner mix by Dfs)",
+      "artist": "Captain Comatose",
+      "has_synced": false,
+      "path": "select/10_$100_(Worst_Remix_Contest_Winner_mix_by_Dfs)_Captain_Comatose.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'm A Winner",
+      "artist": "Robots In Disguise",
+      "has_synced": true,
+      "path": "select/11_I'm_A_Winner_Robots_In_Disguise.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Winner",
+      "artist": "The Crystal Method",
+      "has_synced": false,
+      "path": "select/12_The_Winner_The_Crystal_Method.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We're a Winner (Live)",
+      "artist": "Curtis Mayfield",
+      "has_synced": false,
+      "path": "select/13_We're_a_Winner_(Live)_Curtis_Mayfield.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Big Winner",
+      "artist": "Mellowdrone",
+      "has_synced": false,
+      "path": "select/14_Big_Winner_Mellowdrone.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Winner",
+      "artist": "Treat",
+      "has_synced": false,
+      "path": "select/15_The_Winner_Treat.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Every Party Has a Winner and a Loser (feat. Prefuse 73)",
+      "artist": "Erlend Øye",
+      "has_synced": false,
+      "path": "select/16_Every_Party_Has_a_Winner_and_a_Loser_(feat._Prefuse_73)_Erlend_Øye.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Every Party Has a Winner and a Loser (with Prefuse 73)",
+      "artist": "Erlend Øye",
+      "has_synced": false,
+      "path": "select/17_Every_Party_Has_a_Winner_and_a_Loser_(with_Prefuse_73)_Erlend_Øye.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sorry You're Not a Winner",
+      "artist": "Enter Shikari",
+      "has_synced": true,
+      "path": "select/18_Sorry_You're_Not_a_Winner_Enter_Shikari.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Sorry You're Not A Winner - Live In Moscow. May 2017",
+      "artist": "Enter Shikari",
+      "has_synced": false,
+      "path": "select/19_Sorry_You're_Not_A_Winner_-_Live_In_Moscow._May_2017_Enter_Shikari.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "winner",
+      "artist": "Copes",
+      "has_synced": false,
+      "path": "select/pl_01_winner_Copes.txt"
+    }
+  ]
+}
