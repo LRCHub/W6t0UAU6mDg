@@ -1,0 +1,59 @@
+# COPES – winner
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+行こう Let's try!
+飛び出そう今この部屋
+何もしないのはつまらない
+Let's jump out! 何もかもを忘れて
+バカ騒ぎしようぜ HEY!HEY!HEY!
+this Sunday Monday Tuseday
+待てない
+今すぐあなたに会いたいから
+What's up! そんなこと思いながら
+考えて眠る
+I'm not satisfied.
+To the present situation.
+I want to go further away.
+Let's get out ofsuch a small
+world.
+Will go pick you up.
+Grab my hand away!
+大事なのは踏み出す一歩
+響きわたる采配に従え
+信じた先には光が差すから
+前人未踏のWinner Winner Winner
+行こう Let's try!
+飛び出そう今この部屋
+何もしないのはつまらない
+Let's jump out! 何もかもを忘れて
+バカ騒ぎしようぜ HEY!HEY!HEY
+I'm not satisfied.
+To the present situation.
+I want to go further away.
+Let's get out ofsuch a small
+world.
+Will go pick you up.
+Grab my hand away!
+大事なのは自分を持つこと
+現在から逃げては
+どこへも行けやしない
+信じた先には虹がかかるから
+変幻自在な
+大事なのは踏み出す一歩
+響きわたる采配に従え
+信じた先には夢のような世界が
+前人未踏のWinner Winner Winner
+変幻自在なWinner Winner Winner
+行こう Let's try!
+飛び出そう今この部屋
+何もしないのはつまらない
+Let's jump out! 何もかもを忘れて
+バカ騒ぎしようぜ HEY!HEY!HEY
+this Sunday Monday Tuseday
+待てない
+今すぐあなたに会いたいから
+What's up! そんなこと思いながら
+考えて眠る
+```
